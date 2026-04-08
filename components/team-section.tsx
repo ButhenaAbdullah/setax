@@ -21,7 +21,7 @@ bio: "Rana plays a key role in defining SetaX’s identity and connecting it wit
     socials: {
       linkedin: "https://www.linkedin.com/in/rana-kreishan-009534340/",
       twitter: "#",
-      github: "https://github.com/reokook",
+      github: "https://github.com/RanaKreishan",
     },
   },
 ]
